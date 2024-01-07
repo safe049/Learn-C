@@ -1,0 +1,4 @@
+﻿  c2.c
+C:\Users\safe049\source\repos\Learning 2\Learning 2\c2.c(14,16): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\safe049\source\repos\Learning 2\Learning 2\c2.c(7,8): warning C4305: “初始化”: 从“double”到“float”截断
+  Learning 2.vcxproj -> C:\Users\safe049\source\repos\Learning 2\x64\Debug\Learning 2.exe

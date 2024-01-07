@@ -1,0 +1,4 @@
+﻿  Code2.c
+C:\Users\safe049\source\repos\Project1\Project1\Code2.c(7,8): warning C4305: “初始化”: 从“double”到“float”截断
+Code2.obj : error LNK2005: main 已经在 code.obj 中定义
+C:\Users\safe049\source\repos\Project1\x64\Debug\Project1.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
